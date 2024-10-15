@@ -11,3 +11,5 @@ Staged: está pronto para ser comitado
 
 
 teste ssh
+
+novo teste git push
