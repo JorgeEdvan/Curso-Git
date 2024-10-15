@@ -8,3 +8,6 @@ unmodified: Foi adicionado e é visualizado pelo git, mas sem modificações.
 Modified: Foi modificado, mas ainda não foi salvo precisando ser add novamente
 
 Staged: está pronto para ser comitado
+
+
+teste ssh
